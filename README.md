@@ -6,6 +6,7 @@
 ### Tech + Tools
 
 [![](https://img.shields.io/badge/OS-macOS-000000?logo=Apple&logoColor=white)](https://www.apple.com/macos/)
+[![](https://img.shields.io/badge/Terminal-iTerm2-ffffff?logo=iTerm2&logoColor=black)](https://iterm2.com/)
 [![](https://img.shields.io/badge/Terminal-iTerm2-555555?logo=iTerm2&logoColor=white)](https://iterm2.com/)
 [![](https://img.shields.io/badge/Shell-zsh-7E7E7E?logo=GNU+Bash&logoColor=white)](https://www.zsh.org/)
 [![](https://img.shields.io/badge/Editor-NVim-57A143?logo=Neovim&logoColor=white)](https://neovim.io/)
