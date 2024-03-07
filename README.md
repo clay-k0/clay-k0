@@ -1,6 +1,6 @@
 # clay-k0
 
-- 📚 I’m currently a computer science major and cybersecurity minor working towards my bachelor's.
+- 📚 I’m a computer science major and cybersecurity minor working towards my bachelor's.
 - 🌱 In my free time, I'm learning Rust, Go, and Linux.
 
 ### Tech + Tools
