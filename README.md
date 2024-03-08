@@ -13,6 +13,3 @@
 [![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://rust-lang.org)
 ![](https://img.shields.io/badge/Code-Python-3572a5?logo=Python&logoColor=white)
 [![](https://img.shields.io/badge/Code-Go-00add8?logo=Go&logoColor=white)](https://golang.org/)
-
-### Portfolio
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fclay-k0.vercel.app)](https://clay-k0.vercel.app/)
