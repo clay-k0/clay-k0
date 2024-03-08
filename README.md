@@ -11,5 +11,4 @@
 [![](https://img.shields.io/badge/Tool-Obsidian-8A63B2?logo=Obsidian&logoColor=white)](https://obsidian.md/)
 [![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)](https://github.com/clay-k0)
 [![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://rust-lang.org)
-![](https://img.shields.io/badge/Code-Python-3572a5?logo=Python&logoColor=white)
 [![](https://img.shields.io/badge/Code-Go-00add8?logo=Go&logoColor=white)](https://golang.org/)
