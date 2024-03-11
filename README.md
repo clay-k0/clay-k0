@@ -6,7 +6,7 @@
 ### Tech + Tools
 
 [![](https://img.shields.io/badge/OS-EndeavorOS-2977B9?logo=arch-linux&logoColor=white)](https://endeavouros.com/)
-[![](https://img.shields.io/badge/Terminal-kitty-4D4D4D?logo=kitty&logoColor=white)](https://sw.kovidgoyal.net/kitty/)
+[![](https://img.shields.io/badge/OS-macOS-white?logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![](https://img.shields.io/badge/Editor-nvim-57A143?logo=Neovim&logoColor=white)](https://neovim.io/)
 [![](https://img.shields.io/badge/Tool-Obsidian-8A63B2?logo=Obsidian&logoColor=white)](https://obsidian.md/)
 [![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)](https://github.com/clay-k0)
