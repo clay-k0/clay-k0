@@ -1,7 +1,7 @@
 # clay-k0
 
 - 📚 I’m a computer science major and cybersecurity minor working towards my bachelor's.
-- 📖 In my free time, I'm learning Rust and Go.
+- 📖 In my free time, I'm learning Go and DevOps.
 
 ### Tech + Tools
 
@@ -10,6 +10,7 @@
 [![](https://img.shields.io/badge/Editor-Nvim-57A143?logo=Neovim&logoColor=white)](https://neovim.io/)
 [![](https://img.shields.io/badge/Tool-Obsidian-8A63B2?logo=Obsidian&logoColor=white)](https://obsidian.md/)
 [![](https://img.shields.io/badge/VCS-Git-orange?logo=Git)](https://github.com/clay-k0)
-[![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://rust-lang.org)
+[![](https://img.shields.io/badge/Code-Go-00add8?logo=Go&logoColor=white)](https://golang.org/)
 
-[comment]: [![](https://img.shields.io/badge/Code-Go-00add8?logo=Go&logoColor=white)](https://golang.org/)
+[comment]: [![](https://img.shields.io/badge/Code-Rust-dea584?logo=Rust)](https://rust-lang.org)
+
