@@ -1,4 +1,4 @@
-# clay-k0
+# Clayton King
 
 - 📚 I’m a computer science major and cybersecurity minor working towards my bachelor's.
 - 📖 In my free time, I'm learning Go and DevOps.
