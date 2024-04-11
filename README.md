@@ -1,6 +1,6 @@
 # Clayton King
 
-- 📚 I’m a computer science major and cybersecurity minor working towards my bachelor's.
+- 📚 I’m a computer science major and cybersecurity minor at Old Dominion University working towards my bachelor's.
 - 📖 In my free time, I'm learning Go and DevOps.
 
 ### Tech + Tools
