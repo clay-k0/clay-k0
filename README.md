@@ -1,6 +1,6 @@
 # Clayton King
 
-![](https://raw.githubusercontent.com/potamides/dotfiles/77b2044e0c878df7cf03bcb717eea95b8204ff03/config/awesome/themes/gruvbox/wall_secondary.png)
+![](https://i.ytimg.com/vi/NncelKQ6Hvw/maxresdefault.jpg)
 
 - 📚 I’m a computer science major and cybersecurity minor at Old Dominion University working towards my bachelor's.
 - 🌱 In my free time, I'm learning Go.
