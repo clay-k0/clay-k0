@@ -1,6 +1,6 @@
 # Clayton King
 
-- 📚 Studying Computer Science with a minor in Cybersecurity at Old Dominion University.
+- 📚 Studying Computer Science and Cybersecurity at Old Dominion University.
 - 🌱 Exploring Microservices and Web Development in Go during my free time.
 
 ### Tech Stack
